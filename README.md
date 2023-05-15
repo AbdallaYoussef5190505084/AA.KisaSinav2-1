@@ -78,9 +78,6 @@ Bunları topladığımızda, en yüksek olan karmaşıklık O(n^3) olarak ifade 
 
 4.soru:
 
-AbdallaYoussef5190505084/AA.KisaSinav2-1: Algoritma analiz kisa sinavı (github.com)
-
-
 •	generate fonksiyonu çağrılır: O(A_SIZE)
 •	function1 fonksiyonu çağrılır: O(A_SIZE log A_SIZE)
 •	function2 fonksiyonu çağrılır: O(A_SIZE)
